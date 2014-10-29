@@ -1,5 +1,7 @@
-#!/usr/bin/python3
+N = int(input())
+a = list(map(int, input().split()))
 
-
-if __name__ == '__main__':
-    pass
+while len(a) > 0:
+    a = [abs(min(a) - e) for e in a]
+    print(len(a))
+    a = [e for e in a if e != 0]
