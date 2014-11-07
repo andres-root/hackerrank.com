@@ -1,4 +1,4 @@
-hackerrank.com
-==============
+Hackerrank.com Programming Challenges
+=====================================
 
-My solutions to hackerrank.com problems.
+My Solutions to hackerrank.com challenges. Programming language used: Python3
