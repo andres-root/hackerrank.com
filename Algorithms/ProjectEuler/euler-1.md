@@ -1,1 +1,0 @@
-This problem can be solved in O(1) complexity using the properties of arithmetic progressions.
